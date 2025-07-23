@@ -1,4 +1,4 @@
-# ☕ Monday Coffee – Sales Analysis Project
+# ☕ SQL Monday Coffee – Sales Analysis Project
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4327bbd0-e483-4099-88e9-461cc021b707" />
 
 
