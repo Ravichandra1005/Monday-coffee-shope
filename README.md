@@ -70,11 +70,11 @@ to identify the **top three major Indian cities** to open new coffee shop locati
 🛠 Tech & SQL Features Used
 PostgreSQL
 
-CTEs (Common Table Expressions)
-Window functions
-Aggregation & grouping
-Joins across multiple tables
-Conditional expressions (CASE WHEN)
+CTEs (Common Table Expressions),
+Window functions,
+Aggregation & grouping,
+Joins across multiple tables,
+Conditional expressions (CASE WHEN).
 
 📊 These recommendations balance **high demand & revenue** with **affordable operational costs**,  
 helping Monday Coffee target cities with strong potential for offline expansion.
