@@ -1,4 +1,4 @@
-# ☕ SQL Monday Coffee – Sales Analysis Project
+# ☕ Monday Coffee Shop Sales Analysis – SQL (PostgreSQL)
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4327bbd0-e483-4099-88e9-461cc021b707" />
 
 
@@ -67,6 +67,14 @@ to identify the **top three major Indian cities** to open new coffee shop locati
 - Average sales per customer is strong (~11.6k)
 
 ---
+🛠 Tech & SQL Features Used
+PostgreSQL
+
+CTEs (Common Table Expressions)
+Window functions
+Aggregation & grouping
+Joins across multiple tables
+Conditional expressions (CASE WHEN)
 
 📊 These recommendations balance **high demand & revenue** with **affordable operational costs**,  
 helping Monday Coffee target cities with strong potential for offline expansion.
